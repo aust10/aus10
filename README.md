@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/DrZFpt5q7jeXC" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-magic-tetris-DrZFpt5q7jeXC">via GIPHY</a></p>
+<img src="http://gph.is/2fyoBrV" alt="aust10" />
 
 <h2 align="center"><samp>Hello there 👋, I'm Austen.</samp></h2>
 
