@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/DrZFpt5q7jeXC/giphy.gif" alt="aust10" />
+<img src="https://media.giphy.com/media/DrZFpt5q7jeXC/giphy.gif" width="90%" height="500" alt="aust10" />
 
 <h2 align="center"><samp>Hello there 👋, I'm Austen.</samp></h2>
 
