@@ -1,4 +1,4 @@
-<h2 align="center"><samp>Hi there 👋, I'm Austen.</samp></h2>
+<h2 align="center"><samp>Hello there 👋, I'm Austen.</samp></h2>
 
 - :computer: I’m currently working at **<a href="https://pdxcodeguild.com/">PDX Code Guild</a>**
 - 🌱  I’m currently learning **TypeScript**.
