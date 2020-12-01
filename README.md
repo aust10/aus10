@@ -4,9 +4,7 @@
 :computer: &nbsp; I’m currently working at **<a href="https://pdxcodeguild.com/">PDX Code Guild</a>**<br/>
 🌱 &nbsp;I’m learning **TypeScript** to imporove the maintainability my React products.<br/>
 📫 &nbsp;How to reach me:<br/> 
-<br/> 
 - Send me an [email](mailto:coteausten@gmail.com)
-<br/> 
 - Check out my [linkedin](https://www.linkedin.com/in/austen-cote/)
 
 <br />
