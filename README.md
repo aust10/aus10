@@ -9,7 +9,7 @@ Im a Full Stack Developer from Oregon :evergreen_tree:. When im not programing I
 <br />
 <h2 align="center"><samp>Languages and Tools...</samp></h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" style="vertical-align:top; margin:4px"/>
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" style="border-radius: 10px;"/>
 
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 
