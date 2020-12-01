@@ -4,7 +4,7 @@ Im a Full Stack Developer from Oregon :evergreen_tree:. When im not programing I
 :computer: &nbsp; I’m currently working at **<a href="https://pdxcodeguild.com/">PDX Code Guild</a>** <br/>
 🌱 &nbsp;I’m learning **TypeScript** to imporove the maintainability my React products.<br/>
 📫 &nbsp;How to reach me:<br/> 
-- Send me an &nbsp; <a href="mailto:coteausten@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
+- Send me an &nbsp; <a href="mailto:coteausten@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a><br/>
 - Check out my &nbsp; <a href="https://www.linkedin.com/in/austen-cote/"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
 <br />
 <br />
