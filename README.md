@@ -9,10 +9,8 @@ Im a Full Stack Developer from Oregon :evergreen_tree:. When im not programing I
 <br />
 <h2 align="center"><samp>Languages and Tools...</samp></h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&logoColor=white" style="border-radius: 10px;"/>
-
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&logoColor=white" style="border-radius: 10px; vertical-align:top; margin:4px"/>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&logoColor=%23F7DF1E" style="border-radius: 10px; vertical-align:top; margin:4px"/>
 </p>
 <br />
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=aust10&show_icons=true&count_private=true&theme=react" alt="aust10" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aust10&layout=compact&hide=html&theme=react" alt="aust10" /></p>
