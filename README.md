@@ -4,8 +4,7 @@
 :computer: &nbsp; I’m currently working at **<a href="https://pdxcodeguild.com/">PDX Code Guild</a>**<br/>
 🌱 &nbsp;I’m learning **TypeScript** to imporove the maintainability my React products.<br/>
 📫 &nbsp;How to reach me:<br/> 
-- Send me an [email](mailto:coteausten@gmail.com)
-<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail">
+- Send me an <a href="mailto:coteausten@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
 - Check out my [linkedin](https://www.linkedin.com/in/austen-cote/)
 
 <br />
