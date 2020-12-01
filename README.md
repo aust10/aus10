@@ -1,7 +1,5 @@
-
-<img src="https://media.giphy.com/media/xT0BKf5jOc4AtmmNWw/giphy.gif" width="100%" height="250" alt="aust10" />
-
 <h2 align="center"><samp>Hello there 👋, I'm Austen.</samp></h2>
+<img src="https://media.giphy.com/media/xT0BKf5jOc4AtmmNWw/giphy.gif" width="100%" height="250" alt="aust10" />
 
 - :computer: I’m currently working at **<a href="https://pdxcodeguild.com/">PDX Code Guild</a>**
 - 🌱  I’m currently learning **TypeScript**.
