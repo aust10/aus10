@@ -8,9 +8,6 @@ Im a Full Stack Developer from Oregon :evergreen_tree:. When im not programing I
 - Check out my &nbsp; <a href="https://www.linkedin.com/in/austen-cote/"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
 <br />
 <h2 align="center"><samp>Languages and Tools...</samp></h2>
-<p align="center">
-  <i class="fab fa-git-square"></i>
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -39,6 +36,10 @@ Im a Full Stack Developer from Oregon :evergreen_tree:. When im not programing I
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+<p align="center">
+  <i class="fab fa-git-square"></i>
+ <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+
 </p>
 <br />
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=aust10&show_icons=true&count_private=true&theme=react" alt="aust10" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aust10&layout=compact&hide=html&theme=react" alt="aust10" /></p>
